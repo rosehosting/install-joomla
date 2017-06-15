@@ -7,3 +7,5 @@ This script will automatically do everything that should be done on your server,
 1. Download the script to your server
 2. Make the script executable, then execute the script:
 `chmod +x install-joomla.sh && ./install-joomla.sh`
+
+For more information, please go to our blog post https://www.rosehosting.com/blog/script-install-joomla-3-7-on-a-centosfedora-vps/
