@@ -6,7 +6,7 @@ This script will automatically do everything that should be done on your server,
 
 1. Download the script to your server:
 
-`wget https://github.com/rosehosting/install-joomla/blob/master/install-joomla.sh'
+`wget https://github.com/rosehosting/install-joomla/blob/master/install-joomla.sh`
 
 2. Make the script executable, then execute the script:
 
